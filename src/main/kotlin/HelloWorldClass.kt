@@ -1,0 +1,7 @@
+class HelloWorldClass {
+
+    fun main(){
+
+    }
+
+}
